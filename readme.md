@@ -2,4 +2,4 @@
 
 Simple ALU
 
-[ALU Diagram](alu.png)
+![ALU Diagram](alu.png)
